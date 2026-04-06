@@ -1,6 +1,8 @@
 # Rewriting Project Claw Code
 
-
+<p align="center">
+  <a href="#wallets"><img src="https://img.shields.io/badge/Sponsor%20emmark-%E2%9D%A4-pink?logo=github&style=for-the-badge" alt="Sponsor on GitHub" /></a>
+</p>
 <p align="center">
   <a href="https://star-history.com/#emmarktech/claw-code&Date">
     <picture>
@@ -112,13 +114,10 @@ The new Python `src/` tree currently provides:
 - **`query_engine.py`** — renders a Python porting summary from the active workspace
 - **`main.py`** — a CLI entrypoint for manifest and summary output
 
-## 💬 Support / Questions
+
+## 💬 <a id="wallets"></a>Support / Questions
 
 For questions, discussions, or collaboration:
-
-<p align="center">
-  <a href="https://github.com/sponsors/emmarktech"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github&style=for-the-badge" alt="Sponsor on GitHub" /></a>
-</p>
 
 ### 🪙 Wallets
 
